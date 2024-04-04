@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+# Ex-4 Single server with infinite capacity (M/M/1):(oo/FIFO)
 ### Developed by : H. AARON
 ### Register number : 212223040001
 ## Aim :
